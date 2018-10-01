@@ -1,0 +1,4 @@
+[Vault]
+title=Vault
+description=Vault secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+ports=8200,8201/tcp
